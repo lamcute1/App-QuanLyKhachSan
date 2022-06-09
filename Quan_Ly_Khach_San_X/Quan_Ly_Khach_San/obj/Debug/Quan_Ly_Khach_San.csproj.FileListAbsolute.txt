@@ -1,0 +1,127 @@
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe.config
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.pdb
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\EntityFramework.dll
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\EntityFramework.xml
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.AssemblyReference.cache
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.Properties.Resources.resources
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.GenerateResource.cache
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CoreCompileInputs.cache
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CopyComplete
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.exe
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.pdb
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangKy.resources
+C:\Users\MinhTuongLe\Desktop\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangNhap.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe.config
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.pdb
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\EntityFramework.dll
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\EntityFramework.xml
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.AssemblyReference.cache
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangKy.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangNhap.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.Properties.Resources.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.GenerateResource.cache
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CoreCompileInputs.cache
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CopyComplete
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.exe
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.pdb
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormMENU.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormThongTinKhachHang.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormTraCuuPhong.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormTheDatPhong.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormBienLai.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormTraPhong.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDichVuThem.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormBaoCaoSuCo.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormLayLaiTaiKhoan.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDoiMatKhau.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormQuanLyNhanVien.resources
+D:\Documents\Nam2\HK2\Lập trình trên Window\ĐỒ ÁN WINFORM\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormQuanLyKhachHang.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe.config
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.pdb
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\bin\Debug\EntityFramework.dll
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\bin\Debug\EntityFramework.xml
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.AssemblyReference.cache
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormBaoCaoSuCo.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormBienLai.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangKy.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangNhap.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDichVuThem.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDoiMatKhau.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormLayLaiTaiKhoan.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormMENU.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormQuanLyKhachHang.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormQuanLyNhanVien.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormThongTinKhachHang.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormTraCuuPhong.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormTraPhong.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.Properties.Resources.resources
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.GenerateResource.cache
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CoreCompileInputs.cache
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CopyComplete
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.exe
+C:\Users\MinhTuongLe\Desktop\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.pdb
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe.config
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.pdb
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormBaoCaoSuCo.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormBienLai.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangKy.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangNhap.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDichVuThem.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDoiMatKhau.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormLayLaiTaiKhoan.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormMENU.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormQuanLyKhachHang.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormQuanLyNhanVien.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormThongTinKhachHang.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormTraCuuPhong.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormTraPhong.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CopyComplete
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.exe
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.pdb
+C:\Users\PC\Documents\Zalo Received Files\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.Migrations.capnhat.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe.config
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.exe
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\Quan_Ly_Khach_San.pdb
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\EntityFramework.dll
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\EntityFramework.xml
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.AssemblyReference.cache
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormBaoCaoSuCo.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormBienLai.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangKy.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDangNhap.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDichVuThem.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormDoiMatKhau.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormLayLaiTaiKhoan.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormMENU.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormQuanLyKhachHang.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormQuanLyNhanVien.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormThongTinKhachHang.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormTraCuuPhong.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.FormTraPhong.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.Migrations.capnhat.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.Properties.Resources.resources
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.GenerateResource.cache
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CoreCompileInputs.cache
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.csproj.CopyComplete
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.exe
+D:\Đồ án Window\Quan_Ly_Khach_San_X\Quan_Ly_Khach_San\obj\Debug\Quan_Ly_Khach_San.pdb
